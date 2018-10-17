@@ -16,6 +16,5 @@ done
 exit 0
 
 # trap  "echo Exit command is detedted" 0
-
 # echo "hello world"
 # exit 0
